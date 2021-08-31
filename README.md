@@ -2,6 +2,8 @@
 
 I'm Jay Jiranek, a recent college graduate and a current Jr. Software Engineer for Cognizant. 
 
+- 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.
+
 <!--
 **jayjiranek/jayjiranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
