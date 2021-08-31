@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay Jiranek 👋
+### Call me ✨JayBird✨
 
-I'm Jay Jiranek, a recent college graduate and a current Jr. Software Engineer for Cognizant. 
 
 - 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.
 
