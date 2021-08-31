@@ -1,5 +1,5 @@
-### Hi there, I'm Jay Jiranek 👋
-### Call me ✨JayBird✨
+### Hi there 👋
+### I'm ✨JayBird✨
 
 
 - 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.
