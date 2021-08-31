@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jay Jiranek 👋
 
 I'm Jay Jiranek, a recent college graduate and a current Jr. Software Engineer for Cognizant. 
 
