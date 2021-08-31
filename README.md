@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jay Jiranek, a recent college grduate who earned a Bachelors of Arts in Computer Science. 
+I'm Jay Jiranek, a recent college graduate and a current Jr. Software Engineer for Cognizant. 
 
 <!--
 **jayjiranek/jayjiranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
