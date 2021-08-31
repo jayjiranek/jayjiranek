@@ -2,9 +2,11 @@
 ### ✨Welcome to JayBirds Github✨
 
 
-- 👯 I'm a recent college graduate working as a Jr. Software Engineer for Cognizant.👯
-- 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.🔭
-- ⚡ Certified cloud practitioner and cloud solutions architect.⚡ 
+- 👯 I'm a recent college graduate working as a Jr. Software Engineer for Cognizant. 👯
+- 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers. 🔭
+- ⚡ Certified cloud practitioner and cloud solutions architect. ⚡
+- ⚡ Full-Stack Web Developer. ⚡
+- 📫 jayljiranek@gmail.com 📫
 
 <!--
 **jayjiranek/jayjiranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
