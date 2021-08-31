@@ -1,9 +1,10 @@
 ### Hi there 👋
-### If I like you, call me ✨JayBird✨
-Otherwise call me Mr. Jiranek
+### ✨Welcome to JayBirds Github✨
 
 
-- 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.
+- 👯 I'm a recent college graduate working as a Jr. Software Engineer for Cognizant.👯
+- 🔭 I’m currently working on migrating companies to omnichannel cloud based contact centers.🔭
+- ⚡ Certified cloud practitioner and cloud solutions architect.⚡ 
 
 <!--
 **jayjiranek/jayjiranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
