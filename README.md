@@ -3,8 +3,8 @@
 
 
 - 👯 I'm currently Software Engineer for Cognizant. 👯
-- 🔭 Take a look at some of my personal projects. 🔭
 - ⚡ Certified AWS cloud solutions architect and cloud developer. ⚡
+- 🔭 Take a look at some of my personal projects. 🔭
 - 📫 jayljiranek@gmail.com 📫
 
 <!--
