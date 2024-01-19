@@ -1,11 +1,7 @@
 ### 👋Hi there 👋
 ### ✨Welcome to Jays Github✨
 
-
-- 👯 I'm currently Software Engineer for Cognizant. 👯
-- ⚡ Certified AWS cloud solutions architect and cloud developer. ⚡
-- 🔭 Take a look at some of my personal projects. 🔭
-- 📫 jayljiranek@gmail.com 📫
+- 📫 jay@jayjiranek.com 📫
 
 <!--
 **jayjiranek/jayjiranek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
